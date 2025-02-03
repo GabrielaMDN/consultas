@@ -1,0 +1,3 @@
+fpdf
+requests
+python-dotenv
